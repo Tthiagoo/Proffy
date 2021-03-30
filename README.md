@@ -14,6 +14,9 @@
 yarn install 
 ```
 
+## Mobile :iphone:
+<p>Baixe aqui a versão mobile: https://www.mediafire.com/file/r29noe53l2n11b6/proffy.apk/file </p>
+
 ## Tecnologias utilizadas :arrow_down_small:
 
 - [Node.js](https://nodejs.org/en/)
