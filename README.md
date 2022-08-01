@@ -17,6 +17,12 @@ yarn install
 ## Mobile :iphone:
 <p>Baixe aqui a versão mobile: https://www.mediafire.com/file/r29noe53l2n11b6/proffy.apk/file </p>
 
+<p align="start">
+  <img alt="MoveIt" src="https://user-images.githubusercontent.com/51219408/182168877-733c561d-008d-4165-adbc-54621e3c1270.png" width="15%">
+</p>
+
+
+
 ## Tecnologias utilizadas :arrow_down_small:
 
 - [Node.js](https://nodejs.org/en/)
